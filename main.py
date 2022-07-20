@@ -1,8 +1,11 @@
 # DRAW cells generator
     # author GPS
     # 07 07 2022
-
-
+    
+# LOG
+    # IT generates a code to be used as formula to read a neighborhood sheet in excel
+    # that is previews draws from kino OPAP greece and cyprus
+        
 # variables
 
 c1 = 61 # = equal sign for excel functions
